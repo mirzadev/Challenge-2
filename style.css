@@ -1,0 +1,133 @@
+.resume-outline{
+    border-style: solid;
+    border-color: blue;
+}
+.portfolio-profile{
+    background-color: teal;
+    display: inline-block;
+    font-family: Tahoma;
+    width: 100%;
+    
+    
+    
+}
+.profile-picture{
+    float: left;
+    border-radius: 70px;
+    margin-left: 20px;
+    
+    
+}
+.name-position{
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    color: white;
+    font-size: large;
+}
+.linked-key-point{
+    float: right;
+    margin-top: 100px;
+    font-weight: bold;
+    color: white;
+    margin-right: 20px;
+    font-size: large;
+}
+/* to make changes in in href */
+a{
+    color: white;
+    margin-left: 15px;
+    margin-right: 20px;
+}
+.about-me{
+    clear: both;  
+    background: white;
+    font-family: Tahoma;
+    display: inline-block;
+        width: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-right: 20px;
+    
+}
+
+.additional-info{
+    float: left;
+    width: 15%;
+}
+.blank-div{
+    float: right;
+    
+}
+.career-details{
+   float: right;
+   width: 84%;
+}
+.objective{
+    display: inline-block;
+    width: 97%;
+    text-align: justify;
+    
+}
+.my-profile{
+    display: inline-block;
+    width: 97%;
+    text-align: justify;
+}
+.current-career{
+    display: inline-block;
+    width: 100%;
+}
+.recent-career{
+    float: left;
+    width: 70%;
+}
+.duration-1{
+    float: right;
+    margin-right: 50px;
+}
+.duration-2{
+    float: right;
+    margin-right: 50px;
+    
+}
+.educational-qualification{
+    clear:both;
+}
+.arc-responsibilities{
+    float: left;
+    width: 80%;
+    margin-bottom: 20px;
+}
+.education{
+    margin-top: 30px;
+}
+.duration-3{
+    float: right;
+    margin-right: 50px;
+}
+.degree-achieved{
+    color: green;
+    font-weight: bold;
+}
+.duration-4{
+    float: right;
+    margin-right: 50px;
+}
+.duration-5{
+    float: right;
+    margin-right: 50px;
+}
+.resume-outline{
+    width: auto;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 20px;
+}
+
+
+
+
